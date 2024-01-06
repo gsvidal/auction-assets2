@@ -17,7 +17,8 @@ body {
   height: 100%;
   margin: 0 auto;
   font-size: 1.4rem;
-  background: url("../icons/bg-animated.svg") center/cover no-repeat;
+  background: url("https://raw.githubusercontent.com/gsvidal/auction-styles/main/icons/bg-animated.svg")
+    center/cover no-repeat;
 }
 
 .title-container {
